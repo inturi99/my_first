@@ -20,9 +20,6 @@ defmodule MyFirst do
     a+b
   end
 
-  def sum = fn(a,b) -> a+b end
-
-
   def subtract(a,b) do
     a-b
   end
